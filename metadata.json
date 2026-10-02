@@ -1,0 +1,6 @@
+{
+  "name": "InternMatch — Career & Reputation Platform for Vocational Talent",
+  "description": "InternMatch connects vocational talent (SMK and vocational students/graduates) with internships, daily work, and entry-level opportunities while building verified professional reputation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
